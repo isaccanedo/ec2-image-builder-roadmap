@@ -1,4 +1,4 @@
-## EC2 Image Builder Roadmap
+# EC2 Image Builder Roadmap
 
 ## Introduction
 This is the public roadmap for EC2 Image Builder, directly managed by the service team.
